@@ -122,7 +122,7 @@ footer{
 
 .covid-image {
     width: 100%;
-    max-height: 800px;
+    max-height: 700px;
 
     object-fit: cover;
     object-position: center;
