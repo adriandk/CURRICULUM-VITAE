@@ -82,12 +82,12 @@ a{
 }
 
 a:hover{
-    color: #01f5d1;
+    color: black;
 }
 
 nav a:hover{
     font-weight: bolder;
-    color: #01f5d1;
+    color: black;
 }
 
 main{
